@@ -1,0 +1,26 @@
+{
+  "name": "evolver",
+  "version": "0.0.1",
+  "description": "Evolver updates your version numbers and changelog so you don't have to",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adicksonaps/evolver.git"
+  },
+  "keywords": [
+    "version",
+    "number",
+    "node",
+    "increment",
+    "changelog"
+  ],
+  "author": "Andre Dickson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adicksonaps/evolver/issues"
+  },
+  "homepage": "https://github.com/adicksonaps/evolver#readme"
+}
