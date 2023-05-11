@@ -1,6 +1,6 @@
 {
   "name": "evolver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Evolver updates your version numbers and changelog so you don't have to",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/adicksonaps/evolver/issues"
   },
-  "homepage": "https://github.com/adicksonaps/evolver#readme"
+  "homepage": "https://github.com/adicksonaps/evolver#readme",
+  "dependencies": {
+    "replace-in-files": "^3.0.0"
+  }
 }
